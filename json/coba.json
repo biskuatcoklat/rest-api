@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "wahyu",
+        "umur": 19,
+        "nim": "21113869",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "bola"
+        ],
+        "dospem": {
+            "pemb1": "anto",
+            "pemb2": "den"
+        }
+    },
+    {
+        "nama": "zaki",
+        "umur": 6,
+        "nim": "1234",
+        "lulus": true,
+        "hobby": [
+            "sekolah",
+            "bola"
+        ],
+        "dospem": {
+            "pemb1": "udin",
+            "pemb2": "wan"
+        }
+    }
+]
